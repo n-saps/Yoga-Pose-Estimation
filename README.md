@@ -31,10 +31,4 @@ cd yoga-pose-estimation
 ```bash
 pip install -r requirements.txt
 ```
-3. Image Upload Mode:
-
-Click "Upload Image" button
-
-Select your yoga pose image
-
-Receive instant analysis
+3. Run the ```ITprojectFinal.ipynb``` file
